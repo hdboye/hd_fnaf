@@ -18,7 +18,7 @@ Click [here](https://irv77.github.io/hd_fnaf/ps/) for FNAF Pizzeria Simulator!<b
 
 Click [here](https://irv77.github.io/hd_fnaf/ucn/) for FNAF UCN! <br>
 
-Click [here](google.com/) for FNAF Sister Location! (Coming Soon.) <br>
+Click [here](https://hdboye.github.io/hd_fnaf/sl) for FNAF Sister Location! (Coming Soon.) <br>
  <hr>
 
 NOT OFFICIAL FNAF PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH SCOTT CAWTHON.
