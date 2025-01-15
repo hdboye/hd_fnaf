@@ -14,7 +14,7 @@ Click [here](https://irv77.github.io/hd_fnaf/4/) for FNAF 4!<br>
 
 Click [here](https://irv77.github.io/hd_fnaf/w/) for FNAF World!<br>
 
-Click [here](https://irv77.github.io/hd_fnaf/ps/) for FNAF Pizzeria Simulator!<br>
+Click [here](https://hdboye.github.io/hd_fnaf/ps/) for FNAF Pizzeria Simulator!<br>
 
 Click [here](https://irv77.github.io/hd_fnaf/ucn/) for FNAF UCN! <br>
 
